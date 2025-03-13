@@ -34,6 +34,8 @@ The repository is structured into three main folders, each corresponding to one 
 
 2. Manually download the file `cifar-10-python.tar.gz` from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) and add it to the `data/` folder. *This step should be automatically performed when running either `model_train.ipynb` or `monte-carlo-cp.ipynb`*.
 
-3. Execute the `monte-carlo-cp.ipynb` notebook to reproduce the experiments from the paper.
+3. (*Optional*) Run the `model_train.ipynb` notebook to re-train the model f. The training weights will be saved in the `weights/` folder, and the training history will be stored in the `results/` folder.
 
-4. Visualize the results using the `plot.ipynb` notebook.
+4. Execute the `monte-carlo-cp.ipynb` notebook to reproduce the experiments from the paper.
+
+5. Visualize the results using the `plot.ipynb` notebook.

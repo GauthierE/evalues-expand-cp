@@ -1,0 +1,7 @@
+the data subfolder should contain:
+
+- CIFAR-10 dataset (one file cifar-10-python.tar.gz)
+can be downloaded here: https://www.cs.toronto.edu/~kriz/cifar.html
+
+- CIFAR-10H dataset (two files cifar10h-counts.npy and cifar10h-probs.npy)
+can be downloaded here: https://github.com/jcpeterson/cifar-10h/tree/master/data

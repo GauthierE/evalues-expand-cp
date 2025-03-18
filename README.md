@@ -1,6 +1,6 @@
 # evalues-expand-cp
 
-This repository contains the code for reproducing the experiments and figures presented in the paper [E-Values Expand the Scope of Conformal Prediction]([https://arxiv.org/abs/2502.04879](https://github.com/)).
+This repository contains the code for reproducing the experiments and figures presented in the paper [E-Values Expand the Scope of Conformal Prediction](https://arxiv.org/abs/2503.13050).
 
 ## Organization
 
